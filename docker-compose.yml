@@ -3,7 +3,7 @@ services:
   app:
     build:
       context: .
-    container_name: react_cards_game
+    container_name: ${CONTAINER_NAME} 
     image: cards_game
     restart: always
     volumes:
