@@ -4,7 +4,6 @@ All the React content runs in the host side, the container is used only to run t
 
 ## How to use
 - After clone this repo, use the terminal and navigate to the 'react-app' folder
-- Inside the 'react-app' folder, use 'npm install' to install all the dependencies
 - Use 'docker-compose up' to start the container running your app
 
 ## Tips
